@@ -1,7 +1,7 @@
 # ToDoList App
 
 ### Overview
-Todo list application that can create, read, update, delete, and mark completed. This application also implement filtering and pagination. Front end is developed using react and backend is developed using spring boot.
+Todo list application that can create, read, update, delete, and mark completed.A full-stack ToDo List application built using React for the frontend and Spring Boot with an embedded H2 database for the backend. This app allows users to add, update, mark as complete, and delete tasks. It’s designed to help manage daily tasks efficiently, while demonstrating CRUD operations, RESTful APIs, and full-stack web development.
 
 ### How to Run Application
 
